@@ -3,4 +3,6 @@
 I have done this course from freecodecamp.org. This repositry includes lecture notebooks and exercises from that course.
 
 **Citation:**
-This material is created for our [Data Science with Python Course](https://rmotr.com/data-science-python-course)
+<p>
+  This material is created for our [Data Science with Python Course](https://rmotr.com/data-science-python-course)
+</p>
